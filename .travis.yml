@@ -1,3 +1,4 @@
 language: generic
-OS: linux
-script: exit 0
+sudo: required
+script: -bash test_hello.sh
+
