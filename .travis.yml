@@ -1,0 +1,3 @@
+language: generic
+OS: linux
+script: exit 0
