@@ -2,4 +2,3 @@ language: generic
 sudo: required
 script: 
 -bash test_hello.sh
-
